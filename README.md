@@ -12,7 +12,7 @@ This repository contains the fine-tuning scripts, logs, and evaluation results f
 - **Base Model:** Qwen/Qwen2.5-Coder-1.5B-Instruct
 - **Dataset:** Naholav/CodeGen-Deep-5K
 - **Method:** LoRA (PEFT)
-- **HuggingFace Model Card:** [LINK TO YOUR HUGGINGFACE MODEL HERE]
+- **HuggingFace Model Card:** [sinem02/qwen25-coder-1.5b-Deep]
 
 ## Training Configuration
 The model was trained with the following logging configuration as per requirements:
